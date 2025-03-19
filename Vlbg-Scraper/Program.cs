@@ -22,7 +22,7 @@ class Program
         driver.Navigate().GoToUrl(url);
 
         // Warte kurz, um sicherzustellen, dass die Daten geladen sind (optional)
-        System.Threading.Thread.Sleep(3000);
+        System.Threading.Thread.Sleep(500);
 
         Scraper(scrapedData, driver, uniqueEntries);
 
@@ -36,7 +36,7 @@ class Program
         {
             // Scrolle im div#Datatable nach unten
             js.ExecuteScript("arguments[0].scrollTop = arguments[0].scrollHeight;", scrollableDiv);
-            Thread.Sleep(2000); // Wartezeit für das Laden neuer Daten
+            Thread.Sleep(500); // Wartezeit für das Laden neuer Daten
 
             Scraper(scrapedData, driver, uniqueEntries);
 

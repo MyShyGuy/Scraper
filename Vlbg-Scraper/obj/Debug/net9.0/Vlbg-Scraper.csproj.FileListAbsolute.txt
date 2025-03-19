@@ -19,3 +19,4 @@ C:\Users\matthias.schober\OneDrive - uat.at\Dokumente\Mycode\Scraper\Vlbg-Scrape
 C:\Users\matthias.schober\OneDrive - uat.at\Dokumente\Mycode\Scraper\Vlbg-Scraper\obj\Debug\net9.0\Vlbg-Scraper.pdb
 C:\Users\matthias.schober\OneDrive - uat.at\Dokumente\Mycode\Scraper\Vlbg-Scraper\obj\Debug\net9.0\Vlbg-Scraper.genruntimeconfig.cache
 C:\Users\matthias.schober\OneDrive - uat.at\Dokumente\Mycode\Scraper\Vlbg-Scraper\obj\Debug\net9.0\ref\Vlbg-Scraper.dll
+C:\Users\matthias.schober\OneDrive - uat.at\Dokumente\Mycode\Scraper\Vlbg-Scraper\obj\Debug\net9.0\Vlbg-Scraper.sourcelink.json
